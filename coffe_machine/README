@@ -1,0 +1,14 @@
+Projeto para a criação de uma máquina de café utilizando Programação Orientada a Objeto.
+
+Arquivos:
+menu -> contém as classes para a construção do menu de opções de cafés e suas características (nome, preço e ingredientes);
+coffe_maker -> contém a classe que compõe todo o processo de confecção dos cafés;
+money_machine -> contém a classe para a construção do sistema de cobrança da máquina;
+main -> arquivo com a criação dos objetos e a união destes para a execução das classes.
+Ao executar, temos um output fornecendo as opções de cafés e solicitando um input.
+Em seguida, o algoritmo solicita a quantidade de cada tipo de moeda* que você inseriu e retorna seu troco e seu café.
+Caso o valor inserido não seja o suficiente, retorna que a quantidade de dinheiro não é suficiente.
+O programa também possui a função "report", onde obtemos o quanto de cada ingrediente temos na máquina e o lucro obtido.
+Para desligar a máquina e encerrar o programa, basta utilizar o comando "off".
+
+* O sistema monetário utilizado é em dólar americano($).
