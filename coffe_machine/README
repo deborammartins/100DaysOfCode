@@ -1,4 +1,4 @@
-Projeto para a criação de uma máquina de café utilizando Programação Orientada a Objeto.
+# Projeto para a criação de uma máquina de café utilizando Programação Orientada a Objeto.
 
 Arquivos:
 menu -> contém as classes para a construção do menu de opções de cafés e suas características (nome, preço e ingredientes);
